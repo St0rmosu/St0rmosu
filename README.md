@@ -17,7 +17,7 @@ I am a 4th-year high school student in Italy finishing my studies, and I enjoy c
 [![My Skills](https://skillicons.dev/icons?i=notion,vscode)](https://skillicons.dev)
 
 ## What am i currently listening right now
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z3o6d4gcusz3j23rp4duzmdqoe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z3o6d4gcusz3j23rp4duzmdqoe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌱 Currently Exploring
 
