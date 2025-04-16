@@ -8,7 +8,7 @@ I am a 4th-year high school student in Italy finishing my studies, and I enjoy c
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,c,cpp,py,java,autocad,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,java,markdown)](https://skillicons.dev)
 
 ## PC Knowledge
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,windows,powershell)](https://skillicons.dev)
