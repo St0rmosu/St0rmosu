@@ -18,8 +18,9 @@ I am a 4th-year high school student in Italy finishing my studies, and I enjoy c
 
 ## What am i currently listening right now
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z3o6d4gcusz3j23rp4duzmdqoe&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=cdc412&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ## What i'm currently working on
-![Coding](https://img.shields.io/badge/coding-nothing%20rn-blue?logo=codeforces&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/27f94bbf-24e2-4ffd-a3c1-07a9412b16f9/project/406e1d6e-6690-481c-b22f-0842adda340a.svg)](https://wakatime.com/badge/user/27f94bbf-24e2-4ffd-a3c1-07a9412b16f9/project/406e1d6e-6690-481c-b22f-0842adda340a)
 
 
 ## 🌱 Currently Exploring
