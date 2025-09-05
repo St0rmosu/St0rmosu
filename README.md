@@ -1,6 +1,6 @@
 # Hi, I'm Lorenzo! 👋
 
-I am a 4th-year high school student in Italy finishing my studies, and I enjoy creating animations in Python with Manim. My journey involves delving into the world of computer science, exploring new ideas.
+I am a last year high school student in Italy finishing my studies, and I enjoy creating animations in Python with Manim. My journey involves delving into the world of computer science, exploring new ideas.
 
 - 🔭 I'm finishing my second-to-last year of high school.
 - 🎒 I'm 18 years old
