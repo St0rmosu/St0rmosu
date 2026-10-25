@@ -20,10 +20,14 @@
 
 ### Tech Stack
 
-**Languages** · C / C++ · Java · Python · JavaScript / TypeScript · PHP · Lua  
-**Web & UI** · Next.js · Node.js · Tailwind CSS · Qt / QML  
-**Data** · PostgreSQL · MySQL · SQLite · Supabase  
-**Tools** · Linux / Arch · Git · Docker · Neovim
+<p><strong>Languages</strong></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php,lua&amp;theme=dark" height="34" alt="C, C++, Java, Python, JavaScript, TypeScript, PHP, Lua" /></p>
+
+<p><strong>Web &amp; Data</strong></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,qt,postgres,mysql,supabase&amp;theme=dark" height="34" alt="Next.js, Node.js, Tailwind CSS, Qt, PostgreSQL, MySQL, Supabase" /></p>
+
+<p><strong>Tools</strong></p>
+<p><img src="https://skillicons.dev/icons?i=linux,arch,git,docker,neovim,figma&amp;theme=dark" height="34" alt="Linux, Arch Linux, Git, Docker, Neovim, Figma" /></p>
 
 ---
 
