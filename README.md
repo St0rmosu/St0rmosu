@@ -20,25 +20,10 @@
 
 ### Tech Stack
 
-<p><strong>Languages & Core</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php,lua,html,css,markdown" alt="Languages" /></a>
-</p>
-
-<p><strong>Frameworks, Libraries & Full-Stack</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,qt" alt="Frameworks" /></a>
-</p>
-
-<p><strong>Databases & Backend Services</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb,mongodb,sqlite,supabase" alt="Databases" /></a>
-</p>
-
-<p><strong>System, Tools & Workflow</strong></p>
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,arch,bash,powershell,neovim,vscode,idea,docker,git,github,vercel,figma,notion" alt="Tools" /></a>
-</p>
+**Languages** · C / C++ · Java · Python · JavaScript / TypeScript · PHP · Lua  
+**Web & UI** · Next.js · Node.js · Tailwind CSS · Qt / QML  
+**Data** · PostgreSQL · MySQL · SQLite · Supabase  
+**Tools** · Linux / Arch · Git · Docker · Neovim
 
 ---
 
