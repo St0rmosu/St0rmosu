@@ -1,17 +1,10 @@
-<div align="center">
+![St0rmosu — Lorenzo Recchia. Software, interfaces & Linux.](./assets/header.svg)
 
-# Hi, I'm Lorenzo! (St0rmosu)
-[![Profile Views](https://komarev.com/ghpvc/?username=St0rmosu&style=flat-square&color=blue)](https://github.com/St0rmosu)
-
-ITPS (Computer Science and Software Production Technologies) Student @ [**UniBA**](https://www.uniba.it/) | Linux & Open-Source Enthusiast
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/st0rmosu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-recchia-ba0093366)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rccialrnzo605@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/st0rmosu/"><img src="./assets/instagram.svg" height="42" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/lorenzo-recchia-ba0093366"><img src="./assets/linkedin.svg" height="42" alt="Linkedin" /></a>
+  <a href="mailto:rccialrnzo605@gmail.com"><img src="./assets/email.svg" height="42" alt="Email" /></a>
+</p>
 
 ---
 
@@ -20,50 +13,43 @@ ITPS (Computer Science and Software Production Technologies) Student @ [**UniBA*
 - **Status:** Undergraduate student in **ITPS** (*Computer Science and Software Production Technologies*) at University of Bari Aldo Moro ([**UniBA**](https://www.uniba.it/)).
 - **Current focus:** Personal software projects.
 - **Learning:** Software engineering and architectures, low-level systems programming, and Computer Science fundamentals.
-- **Passions:** Linux ricing, software development.
+- **Passions:** Linux ricing, software development, music, racing cars and Formula 1.
 - **Ask me about:** Anything you want to talk about.
 
 ---
 
 ### Tech Stack
 
-<div align="left">
+<p><strong>Languages & Core</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php,lua,html,css,markdown" alt="Languages" /></a>
+</p>
 
-**Languages & Core**  
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php,lua,html,css,markdown)](https://skillicons.dev)
+<p><strong>Frameworks, Libraries & Full-Stack</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,qt" alt="Frameworks" /></a>
+</p>
 
-**Frameworks, Libraries & Full-Stack**  
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,qt)](https://skillicons.dev)
+<p><strong>Databases & Backend Services</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb,mongodb,sqlite,supabase" alt="Databases" /></a>
+</p>
 
-**Databases & Backend Services**  
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mariadb,mongodb,sqlite,supabase)](https://skillicons.dev)
+<p><strong>System, Tools & Workflow</strong></p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,arch,bash,powershell,neovim,vscode,idea,docker,git,github,vercel,figma,notion" alt="Tools" /></a>
+</p>
 
-**System, Tools & Workflow**  
-[![Tools](https://skillicons.dev/icons?i=linux,arch,bash,powershell,neovim,vscode,idea,docker,git,github,vercel,figma,notion)](https://skillicons.dev)
+---
 
-</div>
+### Featured Project
+
+[![Dynamic Island Hyprland — Quickshell, QML, C++20 and Wayland](./assets/project.svg)](https://github.com/St0rmosu/dynamic-island-hyprland)
 
 ---
 
 ### GitHub Stats
 
-<div align="center">
+![Public GitHub activity and languages](./assets/stats.svg)
 
-<img src="https://github-readme-stats.shion.dev/api?username=St0rmosu&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=St0rmosu&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=St0rmosu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-
-<br/><br/>
-
-### Featured Project
-
-[![dynamic-island-hyprland](https://github-readme-stats.shion.dev/api/pin/?username=St0rmosu&repo=dynamic-island-hyprland&theme=dark&hide_border=false)](https://github.com/St0rmosu/dynamic-island-hyprland)
-
-<br/><br/>
-
-<sub>Thanks for stopping by!</sub>
-
-</div>
+<p align="center"><sub>Thanks for stopping by!</sub></p>
