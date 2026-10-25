@@ -18,20 +18,8 @@
 
 ---
 
-### Tech Stack
-
-![Languages, web, data and tools](./assets/stack.svg)
-
----
-
 ### Featured Project
 
-[![Dynamic Island Hyprland — Quickshell, QML, C++20 and Wayland](./assets/project.svg)](https://github.com/St0rmosu/dynamic-island-hyprland)
-
----
-
-### GitHub Stats
-
-![Public GitHub activity and languages](./assets/stats.svg)
+[![Dynamic Island Hyprland — desktop shell for Hyprland](./assets/project.svg)](https://github.com/St0rmosu/dynamic-island-hyprland)
 
 <p align="center"><sub>Thanks for stopping by!</sub></p>
